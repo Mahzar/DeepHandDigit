@@ -1,7 +1,9 @@
 # MNIST Handwritten Digit Recognition by Deep Convolutional Neural Network (CNN)  Using Keras
 
 The goal of this project is to design and evaluate a deep convolutional neural network to classify handwritten digits images in [MNIST](http://yann.lecun.com/exdb/mnist/) dataset. We used Keras which is an open-source neural-network library written in Python.
-![Sample images from MNIST dataset](dbSamples.jpg?raw=true "Title")
+![Sample images from MNIST\n
+](mnist_snapshots.jpg?raw=true "Title")
+
 ## Getting Started
 Handwritten digit recognition has been a famous challenge in computer vision for many years. It can be used in different applications such as OCR. MNIST is a comprehensive dataset with 70K images of handwritten digits which first has been created and released in 1998. Since then, different works have used various classifiers such as linear classifiers, SVM, KNN, and ANN to classify MNIST. Recently with the increasing popularity of deep neural network, they have shown great performance in MNIST challenge as well. In this project, we designed and evaluated a deep convolutional neural network to approach this traditional challenge in this dataset. The code includes one script code written in Python (attached) that has all the implementations.
 
