@@ -21,6 +21,8 @@ In this document, we explain how to run this code in Google Colab however it can
 
 ## Network structure 
 In this project, we designed a CNN network contains combination of convolution and fully connected layers. The architecture of the network is shown in the following table. 
+
+
 | Layer (in order)          | Output Shape              | Param  |
 | -------------             |:-------------:            | -----:|
 |conv2d_12 (Conv2D)         | (None, 26, 26, 32)        | 320       
@@ -59,6 +61,7 @@ Accuracy:  train: 0.996  valid: 0.992  test: 0.993
     Loss:  train: 0.012  valid: 0.033  test: 0.025
 ```
 Sample of challenging images for the classifier.
+
 ![Sample images from MNIST](challenging_images.jpg)
 
 ## Authors
