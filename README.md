@@ -58,6 +58,8 @@ A sample running of the code results in the following performance measurements:
 Accuracy:  train: 0.996  valid: 0.992  test: 0.993
     Loss:  train: 0.012  valid: 0.033  test: 0.025
 ```
+Sample of challenging images for the classifier.
+![Sample images from MNIST](challenging_images.jpg)
 
 ## Authors
 
